@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ADT Punto en un plano o 3d"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circulo", "Project1\Project1.vcxproj", "{BE958276-D423-4C80-9DF5-2EA3D2E373E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triangulo", "Triangulo\Triangulo.vcxproj", "{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BE958276-D423-4C80-9DF5-2EA3D2E373E4}.Release|x64.Build.0 = Release|x64
 		{BE958276-D423-4C80-9DF5-2EA3D2E373E4}.Release|x86.ActiveCfg = Release|Win32
 		{BE958276-D423-4C80-9DF5-2EA3D2E373E4}.Release|x86.Build.0 = Release|Win32
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Debug|x64.ActiveCfg = Debug|x64
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Debug|x64.Build.0 = Debug|x64
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Debug|x86.Build.0 = Debug|Win32
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Release|x64.ActiveCfg = Release|x64
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Release|x64.Build.0 = Release|x64
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Release|x86.ActiveCfg = Release|Win32
+		{A77FE957-52C4-4EA4-B47A-13B373DB7BCC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
